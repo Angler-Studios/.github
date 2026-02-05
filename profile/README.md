@@ -28,7 +28,7 @@ We welcome bug reports, playtesters, and creative collaboration.
 - If you’d like to collaborate, open an issue or start a discussion — we’ll get back to you.
 
 ## Contact
-For press, partnerships, or business inquiries: contact@aengler-games.com
+For press, partnerships, or business inquiries: contact@anglerstudios.de
 Follow our development updates on GitHub and project-specific channels.
 
 Thanks for stopping by — we make games to be played, shared, and remembered. Come sail with us.
