@@ -1,13 +1,13 @@
-# Ängler-Games
+# Ängler-Studios
 
-Welcome to Ängler-Games — a small, passionate indie studio dedicated to crafting immersive, story-driven games with heart and polish.
+Welcome to Ängler-Studios — a small, passionate indie studio dedicated to crafting immersive, story-driven games with heart and polish.
 
 ## Who we are
 We are a tight-knit team of designers, programmers, artists, and sound designers who love making memorable experiences. Our focus is on meaningful player choices, atmospheric worlds, and accessible gameplay that invites players to explore and feel.
 
 ## What we make
 - Narrative-driven adventures with strong worldbuilding
-- Atmospheric exploration and puzzle games
+- Imersive 3d games
 - Tools and prototypes for rapid iteration and community-driven jams
 
 Current highlights:
