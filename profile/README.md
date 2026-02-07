@@ -11,7 +11,7 @@ We are a tight-knit team of designers, programmers, artists, and sound designers
 - Tools and prototypes for rapid iteration and community-driven jams
 
 Current highlights:
-- (noname yet) — a horror game like "Five Nights at Freddys".
+- 50 minutes with Strictly Teacher.
 
 ## Our values
 - Player-first design: fun, fairness, and accessibility guide our choices.
