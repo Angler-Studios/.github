@@ -20,7 +20,7 @@ Current highlights:
 - Sustainability: healthy working practices and small, sustainable scopes.
 
 ## Tech & platforms
-We primarily build with OpenGL and our own Game Engine, use Java and C# where appropriate, and ship across PC and consoles where it fits the game. We also maintain small open-source tools for level editing and workflow automation.
+We primarily build with Unity, use C# where appropriate, and ship across PC and consoles where it fits the game.
 
 ## Contribute & follow
 We welcome bug reports, playtesters, and creative collaboration.
