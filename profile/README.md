@@ -1,34 +1,49 @@
 # Ängler-Studios
 
-Welcome to Ängler-Studios — a small, passionate indie studio dedicated to crafting immersive, story-driven games with heart and polish.
+Welcome to Ängler-Studios. This is a studio where people who really love making games work together. We want to make games that people will really get into and remember.
 
 ## Who we are
-We are a tight-knit team of designers, programmers, artists, and sound designers who love making memorable experiences. Our focus is on meaningful player choices, atmospheric worlds, and accessible gameplay that invites players to explore and feel.
+
+We are a team of people who do different things like design, program make art and create sound. We all love making games that people will remember. We want to make games where players can make choices that really matter. We also want to make games that have cool worlds and are easy to play.
 
 ## What we make
-- Narrative-driven adventures with strong worldbuilding
-- Imersive 3d games
-- Tools and prototypes for rapid iteration and community-driven jams
 
-Current highlights:
-- 50 minutes with Strictly Teacher.
+- We make adventure games that have stories and worlds.
+
+- We make 3D games that people can really get into.
+
+- We also make tools and prototypes so we can try out ideas and work with the community.
+
+Now we are excited about:
+
+- A game -.
 
 ## Our values
-- Player-first design: fun, fairness, and accessibility guide our choices.
-- Iteration & craft: we polish systems until they sing.
-- Community & collaboration: we learn from players and makers alike.
-- Sustainability: healthy working practices and small, sustainable scopes.
+
+- We think about the player first. We want our games to be fun and fair and easy to play.
+
+- We keep working on our games until they're really good.
+
+- We like to work with the community and learn from them.
+
+- We want to make sure we can keep making games without getting burned out.
 
 ## Tech & platforms
-We primarily build with Unity, use C# where appropriate, and ship across PC and consoles where it fits the game.
+
+We mostly use Unity to make our games. We use C# when it is an idea. We put our games on computers and consoles when it makes sense.
 
 ## Contribute & follow
-We welcome bug reports, playtesters, and creative collaboration.
-- Join our community for playtests and development updates (Discord / social links in project READMEs).
-- If you’d like to collaborate, open an issue or start a discussion — we’ll get back to you.
+
+We would love to hear from you if you find a bug or want to help us test our games.
+
+- You can join our community to help us test and get updates on our games (you can find the links on Discord and in the project READMEs).
+
+- If you want to work with us just let us know. We will get back to you.
 
 ## Contact
-For press, partnerships, or business inquiries: contact@anglerstudios.de
-Follow our development updates on GitHub and project-specific channels.
 
-Thanks for stopping by — we make games to be played, shared, and remembered. Come sail with us.
+If you are a reporter or someone who wants to work with us you can email us at contact@anglerstudios.de.
+
+You can also follow what we are doing on GitHub and on the pages for our projects.
+
+Thanks, for visiting us. We make games because we want people to play them and have fun.. Join us.
